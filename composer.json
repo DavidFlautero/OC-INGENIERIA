@@ -1,0 +1,15 @@
+{
+    "name": "col/online-tienda",
+    "autoload": {
+        "psr-4": {
+            "Col\\OnlineTienda\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DavidFlautero",
+            "email": "Davsarg33@gmail.com"
+        }
+    ],
+    "require": {}
+}

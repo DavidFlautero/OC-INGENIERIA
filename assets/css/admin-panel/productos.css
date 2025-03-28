@@ -1,0 +1,36 @@
+/* Estilos específicos para la sección de productos */
+.btn-action { 
+  margin: 2px; 
+}
+
+.status-active { 
+  color: #28a745; 
+}
+
+.status-paused { 
+  color: #dc3545; 
+}
+
+.card { 
+  margin-bottom: 20px; 
+  box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,.075); 
+}
+
+.product-image { 
+  max-width: 60px; 
+  height: auto; 
+  border-radius: 4px; 
+}
+
+.table-responsive { 
+  border-radius: 4px; 
+  overflow: hidden; 
+}
+
+.badge-vendidos { 
+  background-color: #4e73df; 
+}
+
+.badge-stock { 
+  background-color: #e74a3b; 
+}

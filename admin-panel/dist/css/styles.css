@@ -1,0 +1,12 @@
+/* Estilos personalizados */
+.content-wrapper {
+  margin-left: 250px; /* Ajusta este valor según el ancho del menú lateral */
+  padding: 1rem; /* Espaciado interno para el contenido */
+}
+
+/* Ajustes para dispositivos móviles */
+@media (max-width: 768px) {
+  .content-wrapper {
+    margin-left: 0; /* Elimina el margen en dispositivos móviles */
+  }
+}
